@@ -1,0 +1,4 @@
+[submodule "submod1"]
+  path = submod1
+  url = https://github.com/DuoDreamer/TestMirrorRepoSub1.git
+
