@@ -2,3 +2,6 @@
   path = submod1
   url = https://github.com/DuoDreamer/TestMirrorRepoSub1.git
 
+[submodule "TestMirrorRepoSub1"]
+	path = TestMirrorRepoSub1
+	url = https://github.com/DuoDreamer/TestMirrorRepoSub1.git
